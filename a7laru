@@ -1,0 +1,21 @@
+#EXTM3U
+
+# RUSSIA
+
+#EXTINF:-1 group-title="Russia", Pervyj Kanal
+https://salam-de-rasc-87.rtbcdn.ru/dive/river-3-370.rtbcdn.ru/gtvuvoEQTuiAS2tgLGpckQ/stream/genetta-313.m9.rutube.ru/4hAtibZ0aGqQSwl6_frsJQ/1762516571/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+#EXTINF:-1 group-title="Russia", Россия 1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Russia", РТР Планета
+https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
+#EXTINF:-1 group-title="Russia", Россия 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+#EXTINF:-1 group-title="Russia", HTB
+https://salam-de-rasc-87.rtbcdn.ru/dive/river-3-379.rtbcdn.ru/VvHaIZw9z2M5dcizJfCufA/stream/genetta-316.m9.rutube.ru/u-IzPWXHMbo9Tq70tMIX_w/1762516620/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8
+
+# Türkiye
+
+#EXTINF:-1 group-title="Türkiye", A Spor
+https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
+#EXTINF:-1 group-title="Türkiye", TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
