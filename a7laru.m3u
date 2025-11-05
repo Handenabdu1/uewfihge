@@ -1,21 +1,7 @@
 #EXTM3U
-
-# RUSSIA
-
 #EXTINF:-1,Pervyj Kanal
 https://salam-de-rasc-87.rtbcdn.ru/dive/river-3-370.rtbcdn.ru/gtvuvoEQTuiAS2tgLGpckQ/stream/genetta-313.m9.rutube.ru/4hAtibZ0aGqQSwl6_frsJQ/1762516571/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1,Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1,РТР Планета
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
-#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1
-https://streaming.televizor-24-tochka.ru/live/5.m3u8
-#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24
-https://streaming.televizor-24-tochka.ru/live/10.m3u8
-
-# Türkiye
-
-#EXTINF:-1,A Spor
-https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
-#EXTINF:-1,TRT 1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
